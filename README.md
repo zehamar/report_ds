@@ -19,3 +19,4 @@
  * UTIL: miscellaneous
 
 - pdf names : report_SH1.pdf, example: report_de9f2c7fd25e1b3afad3e85a0bd17d9b100db4b3.pdf
+check clone
